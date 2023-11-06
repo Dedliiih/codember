@@ -1,0 +1,12 @@
+{
+  "name": "codember",
+  "version": "1.0.0",
+  "description": "Ejercicios de Codember =)",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Benjamin Funes benjaminfuneslillo@gmail.com",
+  "license": "MIT"
+}
