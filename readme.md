@@ -1,4 +1,4 @@
-### Mi Solución a los retos de [Codember](https://codember.dev/)
+### Mi solución a los retos de [Codember](https://codember.dev/)
 
 ## Retos
 
