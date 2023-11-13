@@ -5,3 +5,4 @@
 | Reto |           Solución            |
 | :--: | :---------------------------: |
 |  #1  | [JS](challenge-1/exercise.js) |
+|  #2  | [JS](challenge-2/exercise.js) |
