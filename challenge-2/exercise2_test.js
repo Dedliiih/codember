@@ -1,6 +1,6 @@
 import test from "node:test"
 import assert from "node:assert/strict"
-import { miniCompiler } from "./exercise.js"
+import { miniCompiler } from "./exercise2.js"
 
 test("First Test", () => {
   const result = miniCompiler("##*&*#*#&")
